@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-image: url(snake-game-1680-x-1050-background-6syqer1fr6oahe0b.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(36, 58, 1);
+    margin: 50px;
+}
+
+input {
+    background-color: rgb(130, 199, 18);
+    height: 45px;
+    width: 160px;
+    font-size: large;
+    font-weight: 700;
+    color: rgb(19, 31, 1);
+    border: solid rgb(36, 56, 4);
+    border-radius: 20px;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px;
+}
+
